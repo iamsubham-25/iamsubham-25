@@ -108,16 +108,12 @@ A full-stack platform for discovering plants, managing a personal garden, saving
 
 **B.Tech. Computer Science & Engineering** · Silicon University · 2023–2027 · **CGPA 9.54/10**
 
+### 🧩 Problem Solving
+
+**500+ DSA problems solved** across platforms · **5-star rating on HackerRank**
+
 Oracle Agentic AI Foundations Associate · NPTEL Data Analytics with Python · HackerRank SQL (Intermediate)  
 NASA Space Apps and Smart India Hackathon participant
-
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamsubham-25&show_icons=true&hide_border=true&bg_color=00000000&title_color=0E7490&icon_color=F59E0B&text_color=57606A&rank_icon=github" alt="GitHub profile statistics" />
-
-</div>
 
 ## 📬 Let’s Connect
 
